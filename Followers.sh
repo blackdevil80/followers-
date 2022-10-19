@@ -1,22 +1,3 @@
-
-termuxprofessor
-/
-insfollow
-Public
-Code
-Issues
-21
-Pull requests
-1
-Actions
-Projects
-Security
-Insights
-insfollow/insfollow.sh
-@termuxprofessor
-termuxprofessor Update insfollow.sh
- 1 contributor
-288 lines (207 sloc)  10.5 KB
 #!/bin/bash
 # insfollow v2.0
 # recoded by: Termux Professor
