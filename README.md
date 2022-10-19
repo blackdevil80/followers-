@@ -2,21 +2,21 @@
 
 
 
-  pkg install openssl-tool
+     pkg install openssl-tool
 
-  pkg install curl
+     pkg install curl
 
-  pkg install git
+     pkg install git
 
-  git clone https://github.com/blackdevil80/followers-.git
+     git clone https://github.com/blackdevil80/followers-.git
 
-  cd followers
+     cd followers
 
-  chmod +x followers.sh
+     chmod +x followers.sh
 
 
 
-  bash followers.sh
+     bash followers.sh
 
 
 
