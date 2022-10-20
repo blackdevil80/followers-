@@ -286,3 +286,6 @@ fi
 
 banner
 menu
+
+
+echo -e "Gautam Singh"
